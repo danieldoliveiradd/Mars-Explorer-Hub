@@ -1,4 +1,6 @@
-# Mars Explorer Hub
+<h1 align="center">
+  🚀 Mars Explorer Hub 🚀
+</h1>
 
 ![Mars Rover](https://cdn.mos.cms.futurecdn.net/tsRQNTJ8MhRUm32taXTdjm-1200-80.jpg)
 
